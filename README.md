@@ -20,7 +20,7 @@ Implements sorting and searching algorithms tailored to enhance the system’s p
 #### User-Friendly Command-Line Interface:
 
 The user interface is carefully constructed using nested menus and clearly defined inputs, showcasing a strong focus on user experience design in a console-based environment. The command-line interface is intuitive and responsive, using formatted output with printf and scanf for streamlined navigation.
-##### Comprehensive Testing and Debugging:
+#### Comprehensive Testing and Debugging:
 
 The project includes rigorous testing and debugging methodologies, employing both assertions and extensive printf debugging techniques to ensure error-free operation. The solution's setup in Visual Studio leverages the integrated debugging tools, highlighting an understanding of professional development environments.
 #### Scalable and Future-Ready Design:
