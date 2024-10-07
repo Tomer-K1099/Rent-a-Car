@@ -1,4 +1,4 @@
-The RentACar project is a sophisticated vehicle rental management system developed in C, designed to demonstrate advanced programming concepts and software engineering principles. This project not only showcases proficiency in the C language but also emphasizes structured programming, memory management, data abstraction, and modular design, which are critical aspects for building large-scale applications. It is constructed as a comprehensive Visual Studio solution, providing a robust framework for future development and practical use cases.
+The RentACar project is a vehicle rental management system developed in C, designed to demonstrate advanced programming concepts and software engineering principles. This project not only showcases proficiency in the C language but also emphasizes structured programming, memory management, data abstraction, and modular design, which are critical aspects for building large-scale applications. It is constructed as a comprehensive Visual Studio solution, providing a robust framework for future development and practical use cases.
 
 ### Key Takes: <br>
 
